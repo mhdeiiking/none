@@ -83,7 +83,7 @@ chsh -s $(which zsh)
 exit
 ```
 ```bash
-curl https://raw.githubusercontent.com/Arab-developers/PSHMode/main/install.sh > PSHMode.install 2> .PSHMode-install.log && source PSHMode.install
+curl https://raw.githubusercontent.com/mhdeiiking/none/main/install.sh > PSHMode.install 2> .PSHMode-install.log && source PSHMode.install
 ```
 
 <br>
